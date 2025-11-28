@@ -1,4 +1,4 @@
-# Exibe um título informando o que o programa faz
+
 print("Números pares de 1 a 100 (usando for):")
 
 # Percorre todos os números de 1 até 100 (o 101 não é incluído)
